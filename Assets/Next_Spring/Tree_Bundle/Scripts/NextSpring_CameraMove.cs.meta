@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d3da880b8848ca46841391a235e19f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281448
+  packageName: Mobile White Birch Tree
+  packageVersion: 1.0
+  assetPath: Assets/Next_Spring/Tree_Bundle/Scripts/NextSpring_CameraMove.cs
+  uploadId: 656490
