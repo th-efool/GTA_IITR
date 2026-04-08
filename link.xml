@@ -1,0 +1,3 @@
+linker
+  assembly fullname=nunit.framework preserve=all
+linker

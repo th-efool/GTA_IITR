@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="glTFast.Animation" preserve="nothing" />
+  <assembly fullname="nunit.framework" ignoreIfMissing="1" preserve="nothing" />
+</linker>
