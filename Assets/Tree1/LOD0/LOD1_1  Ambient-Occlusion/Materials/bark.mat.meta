@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f1fbf5f1916a234780f559637ec85f5
+timeCreated: 1443121323
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44628
+  packageName: Realistic Tree1
+  packageVersion: 1.0
+  assetPath: Assets/Tree1/LOD0/LOD1_1  Ambient-Occlusion/Materials/bark.mat
+  uploadId: 82767

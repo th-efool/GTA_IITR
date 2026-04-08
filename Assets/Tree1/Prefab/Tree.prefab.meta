@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 402d1f5379b146b4191d956e3deeeebc
+timeCreated: 1440959955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44628
+  packageName: Realistic Tree1
+  packageVersion: 1.0
+  assetPath: Assets/Tree1/Prefab/Tree.prefab
+  uploadId: 82767

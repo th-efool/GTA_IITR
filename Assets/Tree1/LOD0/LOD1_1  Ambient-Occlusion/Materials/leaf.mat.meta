@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f4f2cf287e65854b9d8d3593d2403a7
+timeCreated: 1443121323
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44628
+  packageName: Realistic Tree1
+  packageVersion: 1.0
+  assetPath: Assets/Tree1/LOD0/LOD1_1  Ambient-Occlusion/Materials/leaf.mat
+  uploadId: 82767
