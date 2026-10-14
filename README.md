@@ -14,10 +14,6 @@
   <a href="https://github.com/th-efool/GTA_IITR/issues"><img src="https://img.shields.io/github/issues/th-efool/GTA_IITR" alt="GitHub issues" /></a>
 </p>
 
-> **What if IIT Roorkee had its own GTA?**
->
-> A playable 3D world inspired by the IIT Roorkee campus — bringing familiar campus roads, vehicles, characters, and everyday surroundings into a game.
-
 **GTA IITR** is a Unity game project built around a simple, fun idea: reimagine IIT Roorkee as an explorable game world. Instead of a fictional city, the setting is inspired by the campus itself. It combines 3D environment assets with character and animation assets to build the foundation for a campus-scale playground.
 
 This is a student-built project and a work in progress. The repository contains the Unity project and its assets; the exact gameplay available may vary by project revision.
